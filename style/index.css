@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+body,td,th {
+	font-family: 宋体;
+	font-size: 12px;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(../images/body_bg.gif);
+	background-repeat: repeat-x;
+}
+.logo { width:268px; text-align:right;}
+.nav td { text-align:center; color:#FFFFFF; font-size:14px; height:38px; line-height:38px; border-right:1px solid #fff;}
+.nav a { color:#FFFFFF; text-decoration:none;}
+.nav a:hover { color:#A7A994; text-decoration:none;}
+.top_p { text-align:right; color:#A7A994; height:24px; }
+.banner { height:281px; background:url(../images/banner_bg.jpg); width:1002px; margin:0px auto; text-align:center;}
+.banner td { text-align:center;}
+.content { margin:20px auto;}
+.cp_h2 { background:url(../images/cp_h2.jpg); height:29px; text-align:right; }
+.cp_h2 img { margin-top:120px;}
+.top_news { height:110px; margin:12px 0px; display:inline;}
+.top_news p { line-height:20px; margin-left:20px; color:#333333;}
+.news_list td { color:#333; height:22px; text-align:left; border-bottom:1px dashed #d6d7db; background:url(../images/news_icon.jpg) no-repeat 0px center; padding-left:15px; line-height:22px; }
+.news_list td span { float:right; color:#999999}
+.menu { height:38px; background:#007d6b; text-align:center; color:#FFFFFF; line-height:38px;}
+.copyright { height:68px; background:#f4f4f4; text-align:center; line-height:68px;}

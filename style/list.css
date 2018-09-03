@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+a { color:#333333; text-decoration:none;}
+a:hover { color:#FF0000;}
+.left { border:1px solid #eaeaea; padding:3px;}
+.left th {height:30px;color:#FFFFFF;font-weight:bold;line-height:30px;text-align:left;
+	padding-left:25px;background: url(../images/left_th_bg.jpg) no-repeat 0 center ; font-size:14px; }
+.left_menu td { height:35px; line-height:35px; }
+.left_menu td a { width:180px; display:block; border-bottom:1px dashed #d6d7db; margin:0px 20px; text-align:center; background:url(../images/left_munu_icon.gif) no-repeat 30px center }
+.address { margin:10px 0px;}
+.address td { line-height:20px; height:20px; }
+.about_content { margin-left:40px;}
+.about_content th { height:30px; background:url(../images/about_th_bg.jpg) no-repeat 0px bottom; text-align:left; font-size:14px; color:#007d6b; line-height:30px; }
+.about_content span { font-size:12px; color:#666; font-weight:normal; }
+.about_content_p { margin:19px; line-height:26px; color:#333333; text-indent:24px; font-size:14px; } 
+.about_rongyu { }
+.about_rongyu p {  line-height:20px; color:#333333; margin:0px; height:20px; padding-top:6px; }
+.about_rongyu img { width:150px; height:110px;}
+#select { width:124px; margin:5px 0px;}
+#textfield { width:120px; margin:5px 0px;}
+.news_list2 td { color:#333; height:32px; text-align:left; border-bottom:1px dashed #d6d7db; background:url(../images/news_icon2.jpg) no-repeat 0px center; padding-left:18px; line-height:32px; }
+.news_list2 td span { float:right; color:#999999}
+.news_detail h1 { color:#333333; font-size:18px; text-align:center; }
+.news_detail_size { border:1px solid #e8e8e8; background:#f7f7f7; height:30px; text-align:center; color:#333333; line-height:30px; }
+.product_list td { text-align:center; height:220px; color:#505050; }
+.product_list img { width:200px; height:167px;}
+.product_list p { background:#ececec; height:35px; line-height:35px; width:200px; margin:0px; margin-left:14px;}
